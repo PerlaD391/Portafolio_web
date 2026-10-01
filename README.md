@@ -108,8 +108,6 @@ En `portafolio.js` implementé:
 ### Sección Contacto
 ![Sección Contacto](img/captura-contacto.png)
 
-### Vista Móvil
-![Vista Móvil](img/captura-movil.png)
 
 ---
 
