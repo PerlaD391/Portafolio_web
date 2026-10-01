@@ -4,7 +4,7 @@
 
 **Materia:** Programación Web
 
-**Repositorio:** [https://github.com/tu-usuario/portafolio-web](https://github.com/tu-usuario/portafolio-web)
+**Repositorio:** [https://github.com/PerlaD391/Portafolio_web](https://github.com/PerlaD391/Portafolio_web)
 
 **Demo en vivo:** [https://tu-usuario.github.io/portafolio-web/](https://tu-usuario.github.io/portafolio-web/)
 
